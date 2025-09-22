@@ -3,7 +3,7 @@
 
 This dashboard provides insights into Ecommerce sales transactions, helping analyze total sales, user purchases, payment modes, product categories, and sales by location.
 ## Dashboard Preview
-![Dashboard Preview](reports/Screenshot%20(30).png)
+![Dashboard Preview](Reports/Screenshot%20(30).png)
 
 🔹 Key Metrics
 
